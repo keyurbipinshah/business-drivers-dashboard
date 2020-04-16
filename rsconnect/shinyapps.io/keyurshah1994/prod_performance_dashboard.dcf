@@ -1,0 +1,12 @@
+name: prod_performance_dashboard
+title: prod_performance_dashboard
+username:
+account: keyurshah1994
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1621504
+bundleId: 3024635
+url: https://keyurshah1994.shinyapps.io/prod_performance_dashboard/
+when: 1587080481.96241
+asMultiple: FALSE
+asStatic: FALSE
